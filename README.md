@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pabitrasenpai/natura/actions/workflows/build-apk.yml">
-    <img src="https://github.com/pabitrasenpai/natura/actions/workflows/build-apk.yml/badge.svg" alt="Build Status" />
+  <a href="https://github.com/pabitra-senpai/natura/actions/workflows/build-apk.yml">
+    <img src="https://github.com/pabitra-senpai/natura/actions/workflows/build-apk.yml/badge.svg" alt="Build Status" />
   </a>
   &nbsp;
-  <a href="https://github.com/pabitrasenpai/natura/releases/download/latest/NATURA.apk">
+  <a href="https://github.com/pabitra-senpai/natura/releases/download/latest/NATURA.apk">
     <img src="https://img.shields.io/badge/Download-APK-E9B44C?style=for-the-badge&logo=android&logoColor=black" alt="Download APK" />
   </a>
 </p>
@@ -28,7 +28,7 @@ Using Android's low-level **Camera2 API**, NATURA queries the physical camera ha
 
 ## Direct Download & Installation
 
-1. Tap the **[Download APK](https://github.com/pabitrasenpai/natura/releases/download/latest/NATURA.apk)** badge above on your Android device (Android 8.0+).
+1. Tap the **[Download APK](https://github.com/pabitra-senpai/natura/releases/download/latest/NATURA.apk)** badge above on your Android device (Android 8.0+).
 2. When prompted by Android, allow **"Install unknown apps"** for your web browser or file manager (in *Settings > Apps > Special app access > Install unknown apps*).
 3. Open the downloaded `NATURA.apk` file and tap **Install**.
 4. Launch NATURA and grant the camera and microphone permissions to capture natural, unadulterated reality.
