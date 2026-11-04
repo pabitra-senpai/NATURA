@@ -1,0 +1,6 @@
+{
+  "name": "NATURA",
+  "description": "Capture Reality. Not Algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
