@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 108 108">
+  <rect width="108" height="108" rx="24" fill="#000000"/>
+  <!-- Camera lens outer ring -->
+  <circle cx="54" cy="54" r="27" fill="none" stroke="#E9B44C" stroke-width="2.6" stroke-linecap="round"/>
+  <!-- 6 minimal aperture blades -->
+  <path d="M63.0,54.0 L63.0,78.39 M58.5,61.79 L37.38,73.99 M49.5,61.79 L28.38,49.6 M45.0,54.0 L45.0,29.61 M49.5,46.21 L70.62,34.01 M58.5,46.21 L79.62,58.4"
+        fill="none" stroke="#E9B44C" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

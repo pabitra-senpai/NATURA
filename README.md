@@ -1,10 +1,37 @@
-# NATURA
+<p align="center">
+  <img src="assets/icon.svg" width="96" height="96" alt="NATURA App Icon" />
+</p>
 
-> **"Capture Reality. Not Algorithms."**
+<h1 align="center">NATURA</h1>
+
+<p align="center">
+  <strong>Capture Reality. Not Algorithms.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pabitrasenpai/natura/actions/workflows/build-apk.yml">
+    <img src="https://github.com/pabitrasenpai/natura/actions/workflows/build-apk.yml/badge.svg" alt="Build Status" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/pabitrasenpai/natura/releases/download/latest/NATURA.apk">
+    <img src="https://img.shields.io/badge/Download-APK-E9B44C?style=for-the-badge&logo=android&logoColor=black" alt="Download APK" />
+  </a>
+</p>
+
+---
 
 NATURA is a native Android camera application engineered from first principles around a core philosophy: **never apply beauty filters, artificial skin smoothing, saturation boosts, synthetic HDR, or generative AI processing.**
 
 Using Android's low-level **Camera2 API**, NATURA queries the physical camera hardware pipeline for the least processing each device supports, honoring the optical truth of the sensor and lens.
+
+---
+
+## Direct Download & Installation
+
+1. Tap the **[Download APK](https://github.com/pabitrasenpai/natura/releases/download/latest/NATURA.apk)** badge above on your Android device (Android 8.0+).
+2. When prompted by Android, allow **"Install unknown apps"** for your web browser or file manager (in *Settings > Apps > Special app access > Install unknown apps*).
+3. Open the downloaded `NATURA.apk` file and tap **Install**.
+4. Launch NATURA and grant the camera and microphone permissions to capture natural, unadulterated reality.
 
 ---
 
@@ -77,7 +104,7 @@ The compiled APK will be generated at:
 app/build/outputs/apk/debug/app-debug.apk
 ```
 
-### Installing the APK onto a Device
+### Installing the APK onto a Device via ADB
 
 Connect your Android phone via USB (with USB Debugging enabled in Developer Options) and run:
 
